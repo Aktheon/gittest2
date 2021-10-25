@@ -14,4 +14,8 @@ jkrt klj rty rtklj
 tttt
 
 
+<<<<<<< Updated upstream
 st3 - nope
+=======
+st1
+>>>>>>> Stashed changes
