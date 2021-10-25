@@ -15,7 +15,23 @@ tttt
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 st3 - nope
 =======
 st1
+>>>>>>> Stashed changes
+=======
+st1
+>>>>>>> Stashed changes
+=======
+st2
+>>>>>>> Stashed changes
+=======
+st2
+>>>>>>> Stashed changes
+=======
+st2
 >>>>>>> Stashed changes
