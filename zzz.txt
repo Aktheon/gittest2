@@ -1,1 +1,13 @@
 1
+
+function a() {
+some text here
+}
+
+function b() {
+some text here bb
+}
+
+function c() {
+some text here ccc
+}
