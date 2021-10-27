@@ -4,7 +4,7 @@ function a() {
 underzoom msg 2nd branch
 }
 
-function b() {
+function b2() {
 extra content 2222
 }
 
