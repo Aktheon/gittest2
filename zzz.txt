@@ -1,7 +1,7 @@
 4
 
 function a() {
-some text here
+zoom text 1 qq br
 }
 
 function b() {
