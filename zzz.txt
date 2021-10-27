@@ -5,7 +5,7 @@ some text here
 }
 
 function b() {
-new content 1
+some text here bb
 }
 
 function c() {
