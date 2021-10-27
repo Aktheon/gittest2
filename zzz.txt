@@ -8,7 +8,7 @@ function b2() {
 extra content 2222
 }
 
-function c() {
+function c3() {
 some text here ccc
 }
 
