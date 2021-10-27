@@ -1,7 +1,7 @@
 4
 
 function a() {
-double rere msg
+double rere msg neeeeeeeew
 }
 
 function b() {
